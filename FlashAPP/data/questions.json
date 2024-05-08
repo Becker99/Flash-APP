@@ -1,0 +1,54 @@
+{
+    "Level 0": [
+      {
+        "question": "Was ist der Zweck der Funktion print() in Python?",
+        "options": ["A) Datenbankabfrage", "B) Benutzereingabe", "C) Ausgabe von Daten", "D) Mathematische Berechnung"],
+        "answer": "C) Ausgabe von Daten"
+      },
+      {
+        "question": "Welche Datenstruktur wird verwendet, um eine geordnete Sammlung von Elementen in Python zu speichern?",
+        "options": ["A) Liste", "B) Menge", "C) Tupel", "D) Woerterbuch"],
+        "answer": "A) Liste"
+      },
+      {
+        "question": "Wie definiert man eine Funktion in Python?",
+        "options": ["A) def FunktionName():", "B) function FunktionName():", "C) define FunktionName():", "D) fun FunktionName():"],
+        "answer": "A) def FunktionName():"
+      }
+    ],
+    "Level 1": [
+      {
+        "question": "Was ist der Unterschied zwischen append() und extend() bei Listen in Python?",
+        "options": ["A) Es gibt keinen Unterschied.", "B) append() fuegt ein Element hinzu, extend() fuegt mehrere Elemente hinzu.", "C) extend() fuegt ein Element hinzu, append() fuegt mehrere Elemente hinzu.", "D) append() fuegt ein Element am Anfang hinzu, extend() am Ende."],
+        "answer": "B) append() fuegt ein Element hinzu, extend() fuegt mehrere Elemente hinzu."
+      },
+      {
+        "question": "Wie greift man auf das letzte Element einer Liste mit dem Namen my_list zu?",
+        "options": ["A) my_list[-1]", "B) my_list[last()]", "C) my_list[last]", "D) my_list[-0]"],
+        "answer": "A) my_list[-1]"
+      },
+      {
+        "question": "Was ist der Zweck des pass-Statements in Python?",
+        "options": ["A) Es ueberspringt den Rest des Codes.", "B) Es weist einer Variable einen Wert zu.", "C) Es markiert den Anfang eines Funktionsblocks.", "D) Es stoppt das Programm sofort."],
+        "answer": "A) Es ueberspringt den Rest des Codes."
+      }
+    ],
+    "Level 2": [
+      {
+        "question": "Welche Art von Fehler tritt auf, wenn man versucht, auf eine Variable ausserhalb ihres Gueltigkeitsbereichs zuzugreifen?",
+        "options": ["A) Syntaxfehler", "B) Laufzeitfehler", "C) Logikfehler", "D) Wertefehler"],
+        "answer": "B) Laufzeitfehler"
+      },
+      {
+        "question": "Was ist ein Decorator in Python?",
+        "options": ["A) Ein spezieller Datentyp fuer Dekorationen.", "B) Eine Funktion, die eine andere Funktion veraendert.", "C) Ein Modul fuer grafische Benutzeroberflaechen.", "D) Ein Werkzeug zur Fehlerbehandlung."],
+        "answer": "B) Eine Funktion, die eine andere Funktion veraendert."
+      },
+      {
+        "question": "Wie kann man in Python eine Ausnahme (Exception) abfangen?",
+        "options": ["A) catch Exception as e:", "B) except Error as e:", "C) try: ... except Exception as e:", "D) if Exception: ... else:"],
+        "answer": "C) try: ... except Exception as e:"
+      }
+    ]
+  }
+  

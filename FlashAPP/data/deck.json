@@ -1,0 +1,51 @@
+{
+    "deck": [
+      [
+        "Was ist der Zweck der Funktion print() in Python?",
+        "Ausgabe von Daten",
+        "Python Basics"
+      ],
+      [
+        "Welche Datenstruktur wird verwendet, um eine geordnete Sammlung von Elementen in Python zu speichern?",
+        "Liste",
+        "Python Basics"
+      ],
+      [
+        "Wie definiert man eine Funktion in Python?",
+        "def FunktionName():",
+        "Python Basics"
+      ],
+      [
+        "Was ist der Unterschied zwischen append() und extend() bei Listen in Python?",
+        "append() fuegt ein Element hinzu, extend() fuegt mehrere Elemente hinzu.",
+        "Python Basics"
+      ],
+      [
+        "Wie greift man auf das letzte Element einer Liste mit dem Namen my_list zu?",
+        "my_list[-1]",
+        "Python Basics"
+      ],
+      [
+        "Was ist der Zweck des pass-Statements in Python?",
+        "Es ueberspringt den Rest des Codes.",
+        "Python Basics"
+      ],
+      [
+        "Welche Art von Fehler tritt auf, wenn man versucht, auf eine Variable ausserhalb ihres Gueltigkeitsbereichs zuzugreifen?",
+        "Laufzeitfehler",
+        "Python Intermediate"
+      ],
+      [
+        "Was ist ein Decorator in Python?",
+        "Eine Funktion, die eine andere Funktion veraendert.",
+        "Python Intermediate"
+      ],
+      [
+        "Wie kann man in Python eine Ausnahme (Exception) abfangen?",
+        "try: ... except Exception as e:",
+        "Python Intermediate"
+      ]
+    ]
+  }
+  
+  
